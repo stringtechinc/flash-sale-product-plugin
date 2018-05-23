@@ -1,0 +1,5 @@
+name: タイムセール商品プラグイン
+code: FlashSaleProduct
+version: 1.0.0
+service:
+    - FlashSaleProductServiceProvider
